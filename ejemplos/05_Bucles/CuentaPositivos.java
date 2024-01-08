@@ -23,3 +23,4 @@ public class CuentaPositivos {
     System.out.println("La suma total de ellos es " + (suma - numeroIntroducido));
   }
 }
+ 
